@@ -7,7 +7,7 @@ from tkinter import ttk
 
 def get_stock_data(tickers, start, end):
     """Scarica i dati storici di più azioni da Twelve Data gestendo eventuali errori."""
-    API_KEY = "fbdfad28853a4c8699e4ecd81d10123f"
+    API_KEY = "API_KEY"
     all_data = {}
     
     for ticker in tickers:
