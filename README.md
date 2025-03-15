@@ -19,7 +19,7 @@ Questo programma permette di monitorare e analizzare l'andamento delle azioni fi
 🛠 Installazione
 
 # Clona il repository
-git clone https://github.com/Financial_shares_tracker/tracker-azioni.git
+git clone https://github.com/Financial_shares_trackeri.git
 cd tracker-azioni
 
 # Installa le dipendenze
@@ -63,7 +63,7 @@ This program allows you to monitor and analyze stock market trends using the Twe
 🛠 Installation
 
 # Clone the repository
-git clone https://github.com/Financial_shares_tracker/stock-tracker.git
+git clone https://github.com/Financial_shares_tracker.git
 cd stock-tracker
 
 # Install dependencies
